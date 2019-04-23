@@ -1,5 +1,5 @@
 {
-  "name": "@breadhead/eslint-plugin-react-hooks",
+  "name": "eslint-plugin-react-hooks-with-magic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/breadhead/eslint-plugin-react-hooks.git"
+    "url": "git+https://github.com/uncleseneca/eslint-plugin-react-hooks.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/breadhead/eslint-plugin-react-hooks/issues"
+    "url": "https://github.com/uncleseneca/eslint-plugin-react-hooks-with-magic/issues"
   },
-  "homepage": "https://github.com/breadhead/eslint-plugin-react-hooks#readme",
+  "homepage": "https://github.com/uncleseneca/eslint-plugin-react-hooks-with-magic#readme",
   "publishConfig": {
     "access": "public"
   }
