@@ -1,0 +1,23 @@
+{
+  "name": "@breadhead/eslint-plugin-react-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">=5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breadhead/eslint-plugin-react-hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breadhead/eslint-plugin-react-hooks/issues"
+  },
+  "homepage": "https://github.com/breadhead/eslint-plugin-react-hooks#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
