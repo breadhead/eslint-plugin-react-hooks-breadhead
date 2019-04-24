@@ -2,7 +2,7 @@
 
 'use strict'
 
-export default {
+module.exports = {
   meta: {
     fixable: 'code',
     schema: [

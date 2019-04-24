@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-react-hooks-with-magic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "peerDependencies": {
@@ -11,8 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/uncleseneca/eslint-plugin-react-hooks.git"
   },
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/uncleseneca/eslint-plugin-react-hooks-with-magic/issues"
   },
